@@ -14,7 +14,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github Repo](https://https://github.com/kurokurome/interactive-rating-component/)
+- Solution URL: [Github Repo](https://github.com/kurokurome/interactive-rating-component/)
 - Live Site URL: [Github Pages](https://kurokurome.github.io/interactive-rating-component/)
 
 ## My process
